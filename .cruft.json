@@ -1,0 +1,32 @@
+{
+  "template": "https://github.com/Aviksaikat/cookiecutter-hatch-pypackage",
+  "commit": "e24eadd1b00023879574ecad3431ecc2fea62203",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Saikat Karmakar",
+      "email": "github.maturity983@passinbox.com",
+      "github_username": "Aviksaikat",
+      "project_name": "PySwarm",
+      "dist_name": "pyswarm",
+      "package_name": "pyswarm",
+      "project_short_description": "Honey Swarm is a Swarm light client implemented in Python 🐍",
+      "repository_name": "Ankvik-Tech-Labs/PySwarm",
+      "repository_url": "https://github.com/Ankvik-Tech-Labs/PySwarm",
+      "docs_url": "https://ankvik-tech-labs.github.io/pyswarm/",
+      "open_source_license": "BSD license",
+      "python_version": "3.9",
+      "asyncio": "N",
+      "pydantic": "Y",
+      "codecov": "Y",
+      "deptry": "Y",
+      "mkdocs": "Y",
+      "docs_icon": "material/library",
+      "docs_color_primary": "amber",
+      "docs_color_accent": "amber",
+      "lock_file_support": false,
+      "_template": "https://github.com/Aviksaikat/cookiecutter-hatch-pypackage"
+    }
+  },
+  "directory": null
+}
